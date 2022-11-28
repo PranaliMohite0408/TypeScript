@@ -1,0 +1,4 @@
+/*
+    Write a typescript Program which contains one arrow function named as ChkArmstrong.
+    That function accepts one numbers and check whether number is Armstrong number or not.
+ */
